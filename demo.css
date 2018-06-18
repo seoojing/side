@@ -229,7 +229,7 @@ p
 
 #nav .current a {
 	background: #000000;
-	color: #ffffff;
+	
 }
 
 
@@ -241,7 +241,7 @@ p
 }
 
 .section {
-	border-bottom: 5px solid #ffffff;
+	border-bottom: 5px solid 
 	min-height: 60vh;
 	padding: 50px 20px;
 	position:relative;
